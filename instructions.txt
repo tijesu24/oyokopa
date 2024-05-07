@@ -1,0 +1,10 @@
+To install and use OyoKopa, you need:
+Wampserver 2.X upwards
+extract the zip file to the localhost "www" directory first
+inside the "prettyphotos" navigate to "scripts" you will notice an sql script called "oyokopaDB"
+open up your browser and navigate to phpmyadmin,
+create a database called "photoprettify"
+when on the database, navigate to import, then select the "oyokopaDB" sql script and load it up there
+after this is done, navigate to "http//:localhost/oyokopa/" you should see the home page of the application 
+enjoy!!!
+ Cheers :)
